@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "mmdl",
+    "version": "1.0.0",
+    "description": "An extension for Chromium-based browsers that allows you to download videos from MyMedia, and watch them any way you want.",
+    "action": {
+        "default_popup": "pages/popup/index.html"
+    },
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": ["https://play.library.utoronto.ca/watch/*"],
+    "web_accessible_resources": [
+        {
+            "resources": ["content/*"],
+            "matches": ["<all_urls>"]
+        }
+    ],
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}

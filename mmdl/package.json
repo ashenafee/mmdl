@@ -1,0 +1,25 @@
+{
+  "name": "mmdl",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "rollup -c --bundleConfigAsCjs",
+    "start": "rollup -c -w --bundleConfigAsCjs",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0-beta.23",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "autoprefixer": "^10.4.19",
+    "daisyui": "^4.10.1",
+    "postcss": "^8.4.38",
+    "rollup": "^4.14.2",
+    "rollup-plugin-chrome-extension": "^3.6.12",
+    "rollup-plugin-postcss": "^4.0.2",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.0"
+  }
+}
