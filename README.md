@@ -16,7 +16,7 @@ More often than not, content that's uploaded to MyMedia has the download option 
 
 ## Installation
 
-1. Download an archive of this repository [here](#).
+1. Download an archive of this repository [here](https://github.com/ashenafee/mmdl/archive/refs/heads/main.zip).
 
 2. Extract the archive to a folder of your choice.
 
