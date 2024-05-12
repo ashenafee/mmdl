@@ -1,20 +1,20 @@
 # mmdl
 
-![logo](assets/logo-small.png)
-
 An extension for Chromium-based browsers that allows you to download videos from MyMedia.
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 **mmdl** is not affiliated with or endorsed by the University of Toronto, or MyMedia. It is an independent project that aims to provide a better user experience for students. Furthermore, **mmdl** does not provide access to content that is not publicly available, nor does it redistribute copyrighted material.
 
-## About
+## ℹ️ About
 
 More often than not, content that's uploaded to MyMedia has the download option disabled. This prevents you from watching your course content offline or in the media player of your choice.
 
 **mmdl** is a browser extension that helps you bypass this limitation and get through your content in the way that suits you best.
 
-## Installation
+## ⚙️ Installation
+
+If you prefer to follow the installation process by watching a video, you can check out [this](https://youtu.be/tFuPDbn8Tm8) brief walkthrough where I install the extension on a Windows 11 computer using Microsoft Edge. Please note that the installation process will be almost identical for macOS devices and any other Chromium-based browser (i.e., Google Chrome, Brave, Opera, ...).
 
 1. Download an archive of the pre-built extension [here](https://github.com/ashenafee/mmdl/raw/main/mmdl/mmdl.zip).
 
@@ -28,7 +28,7 @@ More often than not, content that's uploaded to MyMedia has the download option 
 
 6. The extension should now be installed and ready to use.
 
-## Usage
+## 📖 Usage
 
 1. Open a tab with your MyMedia video.
 
@@ -42,7 +42,7 @@ More often than not, content that's uploaded to MyMedia has the download option 
 
 5. Click "Download".
 
-## Frequently Asked Questions
+## 🤔 Frequently Asked Questions
 
 ### What is MyMedia?
 
@@ -58,10 +58,10 @@ Yes it is. **mmdl** does not collect any personal information or track your brow
 
 If you would like to verify this, you can access the extension's source code through this repository.
 
-## Contact
+## ✉️ Contact
 
 If you have any questions or concerns, feel free to contact me through  [LinkedIn](https://www.linkedin.com/in/ashenafee).
 
-## License
+## 📄 License
 
 **mmdl** is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
